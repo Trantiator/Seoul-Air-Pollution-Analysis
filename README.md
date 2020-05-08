@@ -5,4 +5,5 @@ The objective of the project is to:
 2. Sum and mean value of the chemicals present in the Air
 3. Find the chemical that has the most presence in the Air
 
-The IPNYB file contains the solution. 
+The IPNYB file contains the solution to the problem. 
+
